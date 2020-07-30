@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple related databse. To play with it please follow instructions :
+bundle install
+rails db:seed
+and go in the rails console to have fun with the Data created
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Very similar data structure with this repo : https://github.com/Arcoos2602/THP_Freedoc
